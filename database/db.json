@@ -1,0 +1,54 @@
+{
+  "employee": [
+    {
+      "name": "Ram",
+      "address": "Mumbai",
+      "contact": "4568971230",
+      "salary": "65000",
+      "tax": "8500",
+      "pf": "5600",
+      "emi": "2300",
+      "id": 24
+    },
+    {
+      "name": "Sham",
+      "address": "Thane",
+      "contact": "89745633210",
+      "salary": "50000",
+      "tax": "2500",
+      "pf": "1000",
+      "emi": "500",
+      "id": 25
+    },
+    {
+      "name": "Seema",
+      "address": "Dhule",
+      "contact": "9898652132",
+      "salary": "50000",
+      "tax": "1500",
+      "pf": "2000",
+      "emi": "1000",
+      "id": 53
+    },
+    {
+      "name": "Sita",
+      "address": "Dhule",
+      "contact": "9898652132",
+      "salary": "50000",
+      "tax": "1500",
+      "pf": "2000",
+      "emi": "1000",
+      "id": 61
+    },
+    {
+      "name": "Sita",
+      "address": "Dhule",
+      "contact": "9898652132",
+      "salary": "50000",
+      "tax": "1500",
+      "pf": "2000",
+      "emi": "1000",
+      "id": 62
+    }
+  ]
+}
